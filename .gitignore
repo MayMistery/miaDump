@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# ide
+.idea
+.vsc
+
+#dump file
+xz_aliyun
+tttang
+xz
